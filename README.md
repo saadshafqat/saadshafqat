@@ -21,7 +21,7 @@ Dart DevTools
 **Collaboration & Productivity:** Slack, Jira, Trello, Agile/Scrum, CI/CD, Figma, Zoom, Microsoft
 Teams
 
-**Payment Integrations: **Stripe, Apple Pay, Google Pay, Payfast, ZimSwitch, EcoCash, Payment
+**Payment Integrations:** Stripe, Apple Pay, Google Pay, Payfast, ZimSwitch, EcoCash, Payment
 Gateway APIs
 
 **Additional Technologies:** WebRTC, Socket.io, Push Notifications, Camera APIs, Native
