@@ -6,19 +6,25 @@ Android ML capabilities. Delivered production applications handling 10,000+ dail
 transactions with 99.8% uptime and 40% performance improvements.
 
 # Skills
-Frontend Development: Flutter, Dart, iOS, Android, Responsive UI Design, State Management
+**Frontend Development**: Flutter, Dart, iOS, Android, Responsive UI Design, State Management
 (Provider/Bloc), Widget Testing
-Backend Development: Node.js, Express.js, RESTful APIs, GraphQL, Server-Side Rendering,
+
+**Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL, Server-Side Rendering,
 API Design
-Databases & Cloud: MongoDB, Redis, Firebase (Auth, Cloud Messaging, Firestore), Cloud
+
+**Databases & Cloud:** MongoDB, Redis, Firebase (Auth, Cloud Messaging, Firestore), Cloud
 Functions, NoSQL, Data Modeling
-Development Tools: Git, GitHub, GitHub Copilot, VS Code, Android Studio, Xcode, Postman,
+
+**Development Tools:** Git, GitHub, GitHub Copilot, VS Code, Android Studio, Xcode, Postman,
 Dart DevTools
-Collaboration & Productivity: Slack, Jira, Trello, Agile/Scrum, CI/CD, Figma, Zoom, Microsoft
+
+**Collaboration & Productivity:** Slack, Jira, Trello, Agile/Scrum, CI/CD, Figma, Zoom, Microsoft
 Teams
-Payment Integrations: Stripe, Apple Pay, Google Pay, Payfast, ZimSwitch, EcoCash, Payment
+
+**Payment Integrations: **Stripe, Apple Pay, Google Pay, Payfast, ZimSwitch, EcoCash, Payment
 Gateway APIs
-Additional Technologies: WebRTC, Socket.io, Push Notifications, Camera APIs, Native
+
+**Additional Technologies:** WebRTC, Socket.io, Push Notifications, Camera APIs, Native
 Platform Channels (Kotlin/Swift)
 
 # Let's Connect
